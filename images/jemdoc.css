@@ -393,9 +393,9 @@ img.eq {
 }
 
 img.eqwl {
-	padding-left: 2em;
-	padding-top: 0.6em;
-	padding-bottom: 0.2em;
+	padding-left: 0;
+	padding-top: 0.1em;
+	padding-bottom: 0.1em;
 	margin: 0;
 }
 
